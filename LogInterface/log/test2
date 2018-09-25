@@ -1,0 +1,5 @@
+2017-07-01 15:34:42,815 (11208) [Logging.py-Logging-<module> 148] INFO: ≤‚ ‘logging
+2017-07-01 15:34:42,849 (11208) [Logging.py-Logging-<module> 150] INFO: ≤‚ ‘logging
+2017-07-01 15:42:49,929 (10276) [Logging.py-Logging-<module> 148] INFO: ≤‚ ‘logging
+2017-07-01 15:42:49,930 (10276) [Logging.py-Logging-<module> 150] INFO: ≤‚ ‘logging
+2017-07-01 15:42:49,930 (10276) [Logging.py-Logging-<module> 154] INFO: adddress =<logging.Logger object at 0x0000017D8E6AB828> 
